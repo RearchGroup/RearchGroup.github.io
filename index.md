@@ -1,5 +1,7 @@
-# Professor Jie Ling's research group
+# **凌杰教授课题组**
+精密驱动与控制
 ---
+
 You can use the [editor on GitHub](https://github.com/RearchGroup/RearchGroup.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
