@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/Picture-Rolling.css">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -24,6 +25,22 @@
           XXXXXXXXXXXXXXXXXXXXXXXXXX
           XXXXXXXXXX</p>
         <p>最新资讯</p>
+	      <div id="d1" onMouseOver="off()" onmouseleave="on()">
+	      	<!--onMouseOver="off()"鼠标悬浮停止播放-->
+	      	<!--onMouseOver="on()"鼠标离开开始播放-->
+      		<!--d1为图片展示区域-->
+      		<input type="button" value="<" onClick="noadd()" class="i1"><!--上一张按钮-->
+      		<input type="button" value=">" onClick="add()" class="i2"><!--下一张按钮-->
+      		<div id="d2"><!--播放顺序展示-->
+	    		<!--五个顺序点-->
+	    		<div id="d21" onClick=""></div>
+    			<div id="d22" onClick=""></div>
+    			<div id="d23" onClick=""></div>
+    			<div id="d24" onClick=""></div>
+    			<div id="d25" onClick=""></div>
+    		</div>
+       </div>
+</body>
       </header>
       <section>
         <h1>GitHub Flavored Markdown</h1>
