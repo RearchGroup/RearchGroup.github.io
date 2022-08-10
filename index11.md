@@ -3,7 +3,7 @@
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 <table class="imgtable"><tr><td>
-<details><summary>研究内容</summary>
+<details><summary>\研究内容\</summary>
 <p>
 研究内容
 </p>
@@ -26,7 +26,7 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 </p>
 </details></td></tr></table>
 
-You can use the [editor on GitHub](https://github.com/RearchGroup/RearchGroup.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+##课题组简介
 
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
