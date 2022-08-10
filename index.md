@@ -28,6 +28,8 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 
 You can use the [editor on GitHub](https://github.com/RearchGroup/RearchGroup.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [English Page](Enindex.md)
